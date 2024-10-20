@@ -6,7 +6,9 @@ Welcome to my Fun JS Repository! This space is dedicated to creative, fun, and e
 
 ---
 
-**(001) One Minute Timer**
+---
+
+### (001)One Minute Timer
 
 **Live Demo:**
 You can check out the live version of the project/task here: [Visit Live Project](https://001-one-minute-timer.netlify.app/)
