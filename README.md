@@ -11,9 +11,7 @@ You can check out the live version of the project/task here: [Visit Live Project
 
 ---
 
-**(001) One Minute Timer**
+### (002) Dad Jokes
 
-**Live Demo:**
-You can check out the live version of the project/task here: [Visit Live Project](https://001-one-minute-timer.netlify.app/)
-
----
+**_Live Demo:_**
+You can check out the live version of the project/task here: [Visit Live Project](https://002-dad-jokes.netlify.app/)
