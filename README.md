@@ -22,3 +22,10 @@ You can check out the live version of the project/task here: [Visit Live Project
 
 **_Live Demo:_**
 You can check out the live version of the project/task here: [Visit Live Project](https://003-quiz-app.netlify.app/)
+
+---
+
+### (004) Progress Bar
+
+**_Live Demo:_**
+You can check out the live version of the project/task here: [Visit Live Project](https://004-progress-bar.netlify.app/)

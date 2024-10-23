@@ -9,7 +9,7 @@
 
 body {
   font-family: "Muli", sans-serif;
-  background-color: #a3a3a3;
+  background: linear-gradient(135deg, #ffffff, #0c0c0c);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -95,4 +95,5 @@ body {
 .btn:disabled {
   background-color: var(--line-border-empty);
   cursor: not-allowed;
+  color: #0c0c0c;
 }
